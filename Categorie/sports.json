@@ -1,0 +1,27 @@
+[
+  {
+    "leisure": "pitch",
+    "dipendenti": "5",
+    "capienza_oraria": "30"
+  },
+  {
+    "leisure": "sport_centre",
+    "dipendenti": "10",
+    "capienza_oraria": "50"
+  },
+  {
+    "leisure": "swimming_pool",
+    "dipendenti": "10",
+    "capienza_oraria": "30"
+  },
+  {
+    "leisure": "fitness_centre",
+    "dipendenti": "10",
+    "capienza_oraria": "40"
+  },
+  {
+    "leisure": "dance",
+    "dipendenti": "10",
+    "capienza_oraria": "20"
+  }
+]

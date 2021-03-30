@@ -1,0 +1,22 @@
+[
+  {
+    "leisure": "park",
+    "dipendenti": "6",
+    "capienza_oraria": "50"
+  },
+  {
+    "leisure": "garden",
+    "dipendenti": "6",
+    "capienza_oraria": "40"
+  },
+  {
+    "leisure": "playground",
+    "dipendenti": "8",
+    "capienza_oraria": "30"
+  },
+  {
+    "leisure": "dog_park",
+    "dipendenti": "5",
+    "capienza_oraria": "20"
+  }
+]

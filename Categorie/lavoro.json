@@ -1,0 +1,42 @@
+[
+  {
+    "building": "industrial",
+    "dipendenti": "60"
+  },
+  {
+    "building": "commercial",
+    "dipendenti": "50"
+  },
+  {
+    "building": "office",
+    "dipendenti": "40"
+  },
+  {
+    "building": "retail",
+    "dipendenti": "20"
+  },
+  {
+    "building": "service",
+    "dipendenti": "30"
+  },
+  {
+    "building": "warehouse",
+    "dipendenti": "30"
+  },
+  {
+    "building": "construction",
+    "dipendenti": "20"
+  },
+  {
+    "building": "farm",
+    "dipendenti": "15"
+  },
+  {
+    "building": "greenhouse",
+    "dipendenti": "15"
+  },
+  {
+    "building": "farm_auxiliary",
+    "dipendenti": "10"
+  }
+]

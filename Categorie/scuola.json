@@ -1,0 +1,18 @@
+[
+  {
+    "building": "university",
+    "dipendenti": "40"
+  },
+  {
+    "building": "kindergarten",
+    "dipendenti": "40"
+  },
+  {
+    "building": "school",
+    "dipendenti": "50"
+  },
+  {
+    "building": "college",
+    "dipendenti": "40"
+  }
+]

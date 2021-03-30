@@ -1,0 +1,192 @@
+[
+  {
+    "shop": "hairdresser",
+    "dipendenti": "4",
+    "capienza_oraria": "2"
+  },
+  {
+    "shop": "supermarket",
+    "dipendenti": "30",
+    "capienza_oraria": "150"
+  },
+  {
+    "shop": "bakery",
+    "dipendenti": "6",
+    "capienza_oraria": "40"
+  },
+  {
+    "shop": "convenience",
+    "dipendenti": "3",
+    "capienza_oraria": "30"
+  },
+  {
+    "shop": "kiosk",
+    "dipendenti": "2",
+    "capienza_oraria": "30"
+  },
+  {
+    "shop": "newsagent",
+    "dipendenti": "3",
+    "capienza_oraria": "30"
+  },
+  {
+    "shop": "florist",
+    "dipendenti": "3",
+    "capienza_oraria": "25"
+  },
+  {
+    "shop": "car_repair",
+    "dipendenti": "10",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "optician",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "pastry",
+    "dipendenti": "5",
+    "capienza_oraria": "30"
+  },
+  {
+    "shop": "car",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "bicycle",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "laundry",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "mobile_phone",
+    "dipendenti": "3",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "chemist",
+    "dipendenti": "6",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "stationery",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "tobacco",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "greengrocer",
+    "dipendenti": "4",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "butcher",
+    "dipendenti": "4",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "dry_cleaning",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "hardware",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "electronics",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "copyshop",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "motorcycle",
+    "dipendenti": "8",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "deli",
+    "dipendenti": "3",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "confectionery",
+    "dipendenti": "4",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "pet",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "doityourself",
+    "dipendenti": "3",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "paint",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "tyre",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "tyres",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "computer",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "hearing_aids",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "seafood",
+    "dipendenti": "4",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "car_parts",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "garden_center",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "shoe_repair",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "medical_supply",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  }
+]

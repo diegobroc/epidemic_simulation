@@ -1,0 +1,302 @@
+[
+  {
+    "shop": "clothes",
+    "dipendenti": "8",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "shoes",
+    "dipendenti": "4",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "jewelry",
+    "dipendenti": "3",
+    "capienza_oraria": "8"
+  },
+  {
+    "shop": "beauty",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "books",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "furniture",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "travel_agency",
+    "dipendenti": "3",
+    "capienza_oraria": "5"
+  },
+  {
+    "shop": "bag",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "perfumery",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "sports",
+    "dipendenti": "6",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "wine",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "cosmetics",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "department_store",
+    "dipendenti": "50",
+    "capienza_oraria": "200"
+  },
+  {
+    "shop": "toys",
+    "dipendenti": "5",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "ticket",
+    "dipendenti": "5",
+    "capienza_oraria": "25"
+  },
+  {
+    "shop": "interior_decoration",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "houseware",
+    "dipendenti": "4",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "fabric",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "gift",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "watches",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "art",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "antiques",
+    "dipendenti": "2",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "massage",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "herbalist",
+    "dipendenti": "2",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "tailor",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "photo",
+    "dipendenti": "2",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "variety_store",
+    "dipendenti": "3",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "bookmaker",
+    "dipendenti": "4",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "lighting",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "alcohol",
+    "dipendenti": "4",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "baby_goods",
+    "dipendenti": "4",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "bathroom_furnishing",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "mall",
+    "dipendenti": "50",
+    "capienza_oraria": "200"
+  },
+  {
+    "shop": "estate_agent",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "coffee",
+    "dipendenti": "3",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "musical_instrument",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "hifi",
+    "dipendenti": "5",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "garden_centre",
+    "dipendenti": "6",
+    "capienza_oraria": "20"
+  },
+  {
+    "shop": "bed",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "orthopedics",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "mattress",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "kitchen",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "outdoor",
+    "dipendenti": "7",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "second_hand",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "carpet",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "music",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "tea",
+    "dipendenti": "4",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "motorcycle_repair",
+    "dipendenti": "8",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "e-cigarette",
+    "dipendenti": "2",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "kitchen_tools",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "trade",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "glasses",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "chocolate",
+    "dipendenti": "5",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "solarium",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "video_games",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "video",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "beverages",
+    "dipendenti": "3",
+    "capienza_oraria": "15"
+  },
+  {
+    "shop": "general",
+    "dipendenti": "5",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "hunting",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "shop": "ice_cream",
+    "dipendenti": "5",
+    "capienza_oraria": "25"
+  }
+]

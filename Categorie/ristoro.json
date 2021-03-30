@@ -1,0 +1,37 @@
+[
+  {
+    "amenity": "restaurant",
+    "dipendenti": "8",
+    "capienza_oraria": "40"
+  },
+  {
+    "amenity": "cafe",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "amenity": "bar",
+    "dipendenti": "4",
+    "capienza_oraria": "20"
+  },
+  {
+    "amenity": "fast_food",
+    "dipendenti": "8",
+    "capienza_oraria": "30"
+  },
+  {
+    "amenity": "pub",
+    "dipendenti": "6",
+    "capienza_oraria": "30"
+  },
+  {
+    "amenity": "ice_cream",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "amenity": "bbq",
+    "dipendenti": "8",
+    "capienza_oraria": "40"
+  }
+]

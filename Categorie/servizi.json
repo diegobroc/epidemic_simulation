@@ -1,0 +1,47 @@
+[
+  {
+    "amenity": "bank",
+    "dipendenti": "6",
+    "capienza_oraria": "15"
+  },
+  {
+    "amenity": "pharmacy",
+    "dipendenti": "6",
+    "capienza_oraria": "20"
+  },
+  {
+    "amenity": "fuel",
+    "dipendenti": "3",
+    "capienza_oraria": "10"
+  },
+  {
+    "amenity": "post_office",
+    "dipendenti": "6",
+    "capienza_oraria": "15"
+  },
+  {
+    "amenity": "library",
+    "dipendenti": "4",
+    "capienza_oraria": "10"
+  },
+  {
+    "amenity": "veterinary",
+    "dipendenti": "3",
+    "capienza_oraria": "8"
+  },
+  {
+    "amenity": "dentist",
+    "dipendenti": "3",
+    "capienza_oraria": "6"
+  },
+  {
+    "amenity": "hospital",
+    "dipendenti": "40",
+    "capienza_oraria": "60"
+  },
+  {
+    "amenity": "doctors",
+    "dipendenti": "20",
+    "capienza_oraria": "40"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "amenity": "theatre",
+    "dipendenti": "10",
+    "capienza_oraria": "40"
+  },
+  {
+    "amenity": "cinema",
+    "dipendenti": "15",
+    "capienza_oraria": "70"
+  }
+]
